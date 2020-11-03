@@ -1,4 +1,3 @@
-# COMM273D_data_viz_memo
 ## The Heart of Capital Punishment: Execution trends in the American South
 ### FACE EXTRACTION CROP OF EXECUTED DEATH ROW CONVICTS IN TEXAS
 
